@@ -1,7 +1,7 @@
 # Reserva_de_Habitacion 
 
 ## Diagrama de Casos de Uso 
-! CasosDeUso.png
+![](CasosDeUso.png)
 
 ## Diagrama de Clases
-! DiagramaDeClases.png
+![](DiagramaDeClases.png)
